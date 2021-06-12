@@ -1,2 +1,3 @@
 # mes-font
-Holding as much as possible, as easily as possible for the Mark E. Smith font
+Files for the Mark E. Smith typeface.
+Compiled by Paul Wilson
